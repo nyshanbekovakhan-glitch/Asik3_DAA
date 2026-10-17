@@ -1,0 +1,7 @@
+algorithm,vertices,edges,averageTimeNs,operations,totalWeight,connected
+Kruskal,10,30,22608,31,265,true
+Prim,10,30,17200,60,265,true
+Kruskal,100,500,202966,625,1186,true
+Prim,100,500,133458,1000,1186,true
+Kruskal,1000,5000,998966,9952,12683,true
+Prim,1000,5000,1039991,10000,12683,true

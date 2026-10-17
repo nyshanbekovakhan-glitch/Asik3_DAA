@@ -1,0 +1,7 @@
+algorithm,vertices,edges,averageTimeNs,operations
+Dijkstra,10,30,20600,60
+DAGShortestPath,10,30,8275,40
+Dijkstra,100,500,121025,1000
+DAGShortestPath,100,500,70691,600
+Dijkstra,1000,5000,869358,10000
+DAGShortestPath,1000,5000,241666,6000

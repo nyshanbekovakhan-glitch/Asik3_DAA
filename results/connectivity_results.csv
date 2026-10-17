@@ -1,0 +1,7 @@
+algorithm,vertices,edges,averageTimeNs,operations
+TopologicalSort,10,30,7216,40
+SCC,10,30,10408,40
+TopologicalSort,100,500,59524,600
+SCC,100,500,89633,600
+TopologicalSort,1000,5000,450608,6000
+SCC,1000,5000,604050,6000
